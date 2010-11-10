@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.5">
+
+	<id>com.christiancantrell.ireverse</id>
+	<filename>ReversiPlayBook</filename>
+	<name>iReverse</name>
+	<versionNumber>1.0.0</versionNumber>
+	<!-- <versionLabel></versionLabel> -->
+	<description>A one or two player Reversi game.</description>
+	<copyright>Copyright 2010 Cantrell Media Company</copyright>
+	<!-- <publisherID></publisherID> -->
+
+	<initialWindow>
+		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
+		<systemChrome>standard</systemChrome>
+		<visible>true</visible>
+		<resizable>true</resizable>
+		<width>1024</width>
+		<height>600</height>
+		<!-- <transparent></transparent> -->
+		<!-- <title></title> -->
+		<!-- <minimizable></minimizable> -->
+		<!-- <maximizable></maximizable> -->
+		<!-- <x></x> -->
+		<!-- <y></y> -->
+		<!-- <minSize></minSize> -->
+		<!-- <maxSize></maxSize> -->
+	</initialWindow>
+
+	<supportedProfiles>desktop mobileDevice</supportedProfiles>
+	<!-- <installFolder></installFolder> -->
+	<!-- <programMenuFolder></programMenuFolder> -->
+
+	<!-- The icon the system uses for the application. For at least one resolution,
+	specify the path to a PNG file included in the AIR package. Optional. -->
+	<!-- <icon>
+		<image16x16></image16x16>
+		<image32x32></image32x32>
+		<image36x36></image36x36>
+		<image48x48></image48x48>
+		<image72x72></image72x72>
+		<image128x128></image128x128>
+	</icon> -->
+
+</application>
