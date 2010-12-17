@@ -4,7 +4,7 @@
 	<id>com.christiancantrell.ireverse</id>
 	<filename>ReversiPlayBook</filename>
 	<name>iReverse</name>
-	<versionNumber>1.0.0</versionNumber>
+	<versionNumber>1.1</versionNumber>
 	<!-- <versionLabel></versionLabel> -->
 	<description>A one or two player Reversi game.</description>
 	<copyright>Copyright 2010 Cantrell Media Company</copyright>
